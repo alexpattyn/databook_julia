@@ -1,0 +1,10 @@
+name = "databook_julia"
+uuid = "04545007-5904-4632-b694-06e1e9a6c01f"
+authors = ["apattyn "]
+version = "0.1.0"
+
+[deps]
+FileIO = "5789e2e9-d7fb-5bc7-8068-2c6fae9b9549"
+ImageCore = "a09fc81d-aa75-5fe9-8630-4744c3626534"
+JpegTurbo = "b835a17e-a41a-41e7-81f0-2f016b05efe0"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
