@@ -58,9 +58,10 @@ plt4 = heatmap(
     grid = false,
 )
 
+# Figure 1.3
 plot(plt1, plt2, plt3, plt4)
 
-# f_ch01_ex02_2
+# Figure 1.4
 plot(
     plot(
     S,
