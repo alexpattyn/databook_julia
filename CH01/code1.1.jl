@@ -2,7 +2,7 @@ using FileIO, ImageCore
 using LinearAlgebra
 using Plots
 
-A=load("CH01/dog.jpg")
+A=load("data/dog.jpg")
 X= @. Gray(A) |> Float64  # Convert RBG to gray, 256 bit to double.
 nx, ny = size(X)
 
