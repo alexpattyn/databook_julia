@@ -1,6 +1,6 @@
 # Data Driven Science
 
-Unoffical julia examples for the book:
+Unofficial julia examples for the book:
 ```
 Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control 2nd Edition 
 by S. L. Brunton and J. N. Kutz
